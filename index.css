@@ -1,9 +1,18 @@
 header {
-   background-color: #000000;
+   background-color: #0a4100;
    height: 3cm;
 }
 body {
     background-color: #35a413;
     color: white;
    text-aling: center;
+}
+img {
+   display: block;
+   margin: 25px auto;
+   border-radius: 25px;
+}
+h1{
+   padding: 1cm;
+   margin: 0;
 }
