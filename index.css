@@ -1,7 +1,9 @@
 header {
    background-color: #ffffff;
+   height: 3cm;
 }
 body {
     background-color: #35a413;
     color: white;
+   text-aling: center;
 }
